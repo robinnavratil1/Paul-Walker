@@ -1,6 +1,7 @@
 .nav-links {
     list-style: none;
     display: flex;
+
 }
 
 .navigation-menu {
@@ -47,4 +48,9 @@ body{
     margin: 40px auto auto;
     padding: 12px;
     border-radius: 10px;
+}
+
+.registration-heading {
+    color: black;
+    text-align: center;
 }
